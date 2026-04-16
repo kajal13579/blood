@@ -1,0 +1,42 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    background: linear-gradient(to right, #ff4d4d, #ff9999);
+    color: white;
+    text-align: center;
+}
+
+header {
+    background-color: #cc0000;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background: rgba(0,0,0,0.3);
+    border-radius: 10px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    margin: 10px;
+}
+
+img {
+    width: 250px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #990000;
+    padding: 10px;
+}
